@@ -1,0 +1,20 @@
+;;;;;
+title: Technologies for a distributed blog
+tags: distributed-web
+date: 2021-08-20 19:15:00
+format: md
+;;;;;
+
+So in the previous entry I set the goal of a distributed blog.
+How would one implement it?
+
+I decided to go to a static site generator. And since I'm a Common Lisp hobbyist I chose Coleslaw, to learn it and possibly improve it if necessary. However, one may use whatever (static) blogware they want, or write html files by hand.
+
+At the same time, I studied a bit the distributed web ecosystem and found out two promising technologies:
+
+* IPFS
+* Hypercore protocol / Beaker browser
+
+In the following posts I will describe my experience with them, as a complete novice. I guess this won't stay relevant for long as technology evolves, but it may still inspire or teach something.
+
+That's all for now!

@@ -1,0 +1,12 @@
+;;;;;
+title: A distributed blog
+tags: distributed-web
+date: 2021-07-28 18:50:00
+format: md
+;;;;;
+
+So my first long-term goal is to be able to run a blog and serve it in a distributed way, so that it does not have to sit on some server which is on 24/7.
+
+Ideally this blog could also become a "social node" i.e. a point where I can share stuff with people and get notified of stuff they share with me, and together we can provide the redundancy required to have our stuff online when it can be useful to other people. And I'm not talking only of information publishing but interactions as well. Like, leaving comments. My blog may be offline, so someone else will have to keep the comment and pass it to me when we both are online. Stuff like that.
+
+But that's a far-fetched goal. First, I'll just concentrate on serving static information. The next posts will be about different solutions for that. And I'm really writing this as some sort of journal, not as technical articles, I'm not proofreading or anything like that, just a stream of thought, like a conversation at a pub between nerds. Hopefully not just nerds.
